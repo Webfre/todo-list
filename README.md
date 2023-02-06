@@ -1,9 +1,6 @@
 # Todo List
 
-<a href="https://webfre.github.io/todo-list/" target="_blank">
-  ![Image alt](https://github.com/Webfre/todo-list/blob/main/src/assets/todolist.png)
-</a>
-
+![Image alt](https://github.com/Webfre/todo-list/blob/main/src/assets/todolist.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
@@ -13,8 +10,7 @@ Todo List - task list with an interesting design for creating, adding, editing a
 - Responsive and fully adaptive;
 
 <h3 align="left">Preview</h3>
-<p align="left">
-<a href="https://webfre.github.io/todo-list/" target="_blank"></a>
+<a href="https://webfre.github.io/todo-list/" target="_blank">Follow the link 👁</a>
 
 ## Tech
 
