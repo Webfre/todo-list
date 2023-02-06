@@ -9,7 +9,7 @@ Todo List - task list with an interesting design for creating, adding, editing a
 - Single-page application;
 - Responsive and fully adaptive;
 
-<h3 align="left">Preview</h3>
+## Preview
 <a href="https://webfre.github.io/todo-list/" target="_blank">Follow the link 👁</a>
 
 ## Tech
