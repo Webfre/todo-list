@@ -7,7 +7,11 @@
 Todo List - task list with an interesting design for creating, adding, editing and deleting notes at any time.
 
 - Single-page application;
-- Responsive and fully adaptive
+- Responsive and fully adaptive;
+
+<h3 align="left">Preview</h3>
+<p align="left">
+<a href="https://webfre.github.io/todo-list/" target="_blank"></a>
 
 ## Tech
 
