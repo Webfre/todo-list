@@ -37,6 +37,7 @@ git clone https://github.com/Webfre/todo-list.git
 Start the project:
 
 ```sh
+npm install
 cd todo-list-app
 npm start or yarn start
 ```
